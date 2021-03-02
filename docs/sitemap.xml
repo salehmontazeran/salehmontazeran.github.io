@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://salehmontazeran.com/categories/</loc>
+    <loc>https://salehmontazeran.com/hello-world/</loc>
+    <lastmod>2021-03-03T02:15:52+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://salehmontazeran.com/posts/</loc>
+    <lastmod>2021-03-03T02:15:52+03:30</lastmod>
   </url>
   
   <url>
     <loc>https://salehmontazeran.com/</loc>
+    <lastmod>2021-03-03T02:15:52+03:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://salehmontazeran.com/categories/</loc>
   </url>
   
   <url>

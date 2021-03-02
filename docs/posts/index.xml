@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Saleh Montazeran</title>
-    <link>https://salehmontazeran.com/tags/</link>
-    <description>Recent content in Tags on Saleh Montazeran</description>
+    <title>Posts on Saleh Montazeran</title>
+    <link>https://salehmontazeran.com/posts/</link>
+    <description>Recent content in Posts on Saleh Montazeran</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Wed, 03 Mar 2021 02:15:52 +0330</lastBuildDate>
     
-	<atom:link href="https://salehmontazeran.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://salehmontazeran.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     
